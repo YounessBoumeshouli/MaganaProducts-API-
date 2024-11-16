@@ -1,0 +1,467 @@
+{
+    "categories": [
+      {
+        "category": "Classic & Formal Watches",
+        "image": "url",
+        "products": [
+          {
+            "id": 1,
+            "title": "Robo watch",
+            "price": 129.95,
+            "description": "A classic and timeless leather strap chronograph watch with an elegant design. Perfect for casual and formal wear.",
+            "image": "watch 11.png",
+            "image1": "watch 11.png",
+            "image2": "watch_11-1.png",
+            "image3": "watch_11-2.png",
+  
+            "rating": {
+              "rate": 4.5,
+              "count": 120
+            }
+          },
+          {
+            "id": 2,
+            "title": "Fossil Women's Jacqueline Leather Watch",
+            "price": 109.99,
+            "description": "A sophisticated leather strap watch with Roman numeral markers and a slim design, perfect for everyday wear.",
+            "image": "FossilMen (1).png",
+            "image1": "FossilWomens.png",
+            "image2": "FossilWomens2.png",
+            "image3": "FossilMen (1).png",
+            "rating": {
+              "rate": 4.4,
+              "count": 679
+            }
+          },
+          {
+            "id": 3,
+            "title": "Omega Seamaster Diver 300M",
+            "price": 5200,
+            "description": "A luxurious and iconic dive watch with a ceramic bezel, stainless steel case, and water resistance up to 300 meters.",
+            "image": "Omega.png",
+            "image1": "Omega1.png",
+            "image2": "Omega2.png",
+            "image3": "Omega.png",
+  
+            "rating": {
+              "rate": 4.8,
+              "count": 150
+            }
+          },
+          {
+            "id": 4,
+            "title": "Rolex Datejust 41",
+            "price": 9200,
+            "description": "A timeless and elegant men's watch featuring a 41mm stainless steel case, fluted bezel, and automatic movement.",
+            "image": "SeikoMen.jpg",
+            "rating": {
+              "rate": 4.9,
+              "count": 200
+            }
+          }
+        ]
+      },
+      {
+        "category": "Eco-Friendly Watches",
+        "image": "url",
+        "products": [
+          {
+            "id": 5,
+            "title": "Orange Watch",
+            "price": 175.3,
+            "description": "This Seiko Solar watch is powered by light and features a classic design with stainless steel casing and water resistance.",
+            "image": "watch 2.png",
+            "image1": "watch_2-1.png",
+            "image2": "watch_2-2.png",
+            "image3": "watch_2-3.png",
+            "rating": {
+              "rate": 4.3,
+              "count": 259
+            }
+          },
+          {
+            "id": 6,
+            "title": "Citizen Women's Eco-Drive Watch",
+            "price": 168,
+            "description": "Powered by light, this eco-friendly watch features a sophisticated design with a stainless steel bracelet and a stylish dial.",
+            "image": "CitizenWomen.jpg",
+            "rating": {
+              "rate": 3.9,
+              "count": 70
+            }
+          },
+          {
+            "id": 7,
+            "title": "Garmin Fenix 7 Solar Watch",
+            "price": 849.99,
+            "description": "A solar-powered, GPS-enabled sports and outdoor watch with advanced tracking features and rugged durability.",
+            "image": "watch 8.png",
+            "rating": {
+              "rate": 4.7,
+              "count": 80
+            }
+          },
+          {
+            "id": 8,
+            "title": "Eco-Drive Satellite Wave Watch",
+            "price": 1500,
+            "description": "A high-tech solar-powered watch that syncs with GPS satellites for accurate timekeeping worldwide.",
+            "image": "watch 4.png",
+            "rating": {
+              "rate": 4.6,
+              "count": 45
+            }
+          }
+        ]
+      },
+      {
+        "category": "Sports & Outdoor Watches",
+        "image": "url",
+        "products": [
+          {
+            "id": 9,
+            "title": "Portable Square",
+            "price": 55.99,
+            "description": "Tough, rugged, and highly durable, the Casio G-Shock is designed for extreme conditions. Ideal for outdoor activities.",
+            "image": "watch_3.png",
+            "image1": "watch_3-1.png",
+            "image2": "watch_3-2.png",
+            "image3": "watch_3-3.png",
+  
+            "rating": {
+              "rate": 4.7,
+              "count": 500
+            }
+          },
+          {
+            "id": 10,
+            "title": "Invicta Men's Pro Diver Quartz Watch",
+            "price": 79.99,
+            "description": "A reliable dive watch with a stainless steel case and water resistance up to 200 meters, ideal for swimming and diving.",
+            "image": "InvictaMens.jpg",
+            "rating": {
+              "rate": 3.5,
+              "count": 400
+            }
+          },
+          {
+            "id": 11,
+            "title": "Suunto Core All Black Military Watch",
+            "price": 299,
+            "description": "A durable, multi-functional outdoor watch featuring an altimeter, barometer, and compass, designed for extreme adventures.",
+            "image": "SuuntoCore.jpg",
+            "rating": {
+              "rate": 4.6,
+              "count": 319
+            }
+          },
+          {
+            "id": 12,
+            "title": "Timex Women's Expedition Scout Watch",
+            "price": 69.99,
+            "description": "This rugged, reliable outdoor watch features an Indiglo light-up dial and a durable, water-resistant case.",
+            "image": "TimexWomen's.jpg",
+            "rating": {
+              "rate": 4.1,
+              "count": 235
+            }
+          },
+          {
+            "id": 13,
+            "title": "Garmin Instinct Solar Outdoor Watch",
+            "price": 399.99,
+            "description": "A solar-powered outdoor GPS watch with built-in heart rate monitoring, GPS, and weather tracking.",
+            "image": "GarminInstinct.jpg",
+            "image1": "GarminInstinct1.jpg",
+            "image2": "GarminInstinct2.jpg",
+            "image3": "GarminInstinct2.jpg",
+            "rating": {
+              "rate": 4.8,
+              "count": 75
+            }
+          }
+        ]
+      },
+      {
+        "category": "Casual & Everyday Watches",
+        "image": "url",
+        "products": [
+          {
+            "id": 14,
+            "title": "Diamond Watches",
+            "price": 39.99,
+            "description": "A casual, stylish, and affordable watch with an easy-to-read dial. Comfortable nylon strap and water-resistant.",
+            "image": "watch 4.png",
+            "rating": {
+              "rate": 3.8,
+              "count": 430
+            }
+          },
+          {
+            "id": 15,
+            "title": "Casio Women's Classic Analog Watch",
+            "price": 29.95,
+            "description": "A timeless and affordable analog watch with a simple, elegant design and water resistance.",
+            "image": "CasioWomens.jpg",
+            "rating": {
+              "rate": 4.0,
+              "count": 340
+            }
+          },
+          {
+            "id": 16,
+            "title": "Michael Kors Women's Parker Chronograph Watch",
+            "price": 250.00,
+            "description": "A stylish and elegant chronograph watch with a gold-tone stainless steel bracelet and crystal-accented bezel.",
+            "image": "MichaelKorsWomens.jpg",
+            "rating": {
+              "rate": 4.6,
+              "count": 90
+            }
+          },
+          {
+            "id": 17,
+            "title": "Fossil Women's Carlie Mini Stainless Steel Watch",
+            "price": 94.95,
+            "description": "A chic and versatile stainless steel watch with a slim profile and minimalist design, perfect for casual and everyday wear.",
+            "image": "FossilWomens.jpg",
+            "image1": "FossilWomens2.jpg",
+            "image2": "FossilWomens3.jpg",
+            "rating": {
+              "rate": 4.4,
+              "count": 210
+            }
+          }
+        ]
+      },
+      {
+        "category": "Round",
+        "image": "url",
+        "products": [
+          {
+            "id": 18,
+            "title": "black shadow",
+            "price": 39.99,
+            "description": "A casual, stylish, and affordable watch with an easy-to-read dial. Comfortable nylon strap and water-resistant.",
+            "image": "watch 1.png",
+            "rating": {
+              "rate": 3.8,
+              "count": 430
+            }
+          },
+          {
+            "id": 19,
+            "title": "Orange Watch",
+            "price": 29.95,
+            "description": "A timeless and affordable analog watch with a simple, elegant design and water resistance.",
+            "image": "watch 2.png",
+            "rating": {
+              "rate": 4.0,
+              "count": 340
+            }
+          },
+          {
+            "id": 20,
+            "title": "Diamond Watches",
+            "price": 250.00,
+            "description": "A stylish and elegant chronograph watch with a gold-tone stainless steel bracelet and crystal-accented bezel.",
+            "image": "watch 4.png",
+            "rating": {
+              "rate": 4.6,
+              "count": 90
+            }
+          },
+          {
+            "id": 21,
+            "title": "Micfor",
+            "price": 94.95,
+            "description": "A chic and versatile stainless steel watch with a slim profile and minimalist design, perfect for casual and everyday wear.",
+            "image": "watch 5.png",
+            "rating": {
+              "rate": 4.4,
+              "count": 210
+            }
+          },
+          {
+            "id": 22,
+            "title": "Rolex V1",
+            "price": 94.95,
+            "description": "A chic and versatile stainless steel watch with a slim profile and minimalist design, perfect for casual and everyday wear.",
+            "image": "watch 7.webp",
+            "rating": {
+              "rate": 4.4,
+              "count": 210
+            }
+          },
+          {
+            "id": 23,
+            "title": "sekonda spirit",
+            "price": 94.95,
+            "description": "A chic and versatile stainless steel watch with a slim profile and minimalist design, perfect for casual and everyday wear.",
+            "image": "watch 9.png",
+            "rating": {
+              "rate": 4.4,
+              "count": 210
+            }
+          }
+        ]
+      },
+      {
+        "category": "Square",
+        "image": "url",
+        "products": [
+          {
+            "id": 24,
+            "title": "White bird",
+            "price": 15.00,
+            "description": "A casual, stylish, and affordable watch with an easy-to-read dial. Comfortable nylon strap and water-resistant.",
+            "image": "watch 10.png",
+            "image1": "watch_10-1.png",
+            "image2": "watch_10-2.png",
+            "image3": "watch_10-3.png",
+            "rating": {
+              "rate": 3.8,
+              "count": 430
+            }
+          },
+          {
+            "id": 25,
+            "title": "Rios Watch",
+            "price": 29.95,
+            "description": "A timeless and affordable analog watch with a simple, elegant design and water resistance.",
+            "image": "watch 6.png",
+            "rating": {
+              "rate": 4.0,
+              "count": 340
+            }
+          },
+          {
+            "id": 26,
+            "title": "Sekonda New",
+            "price": 250.00,
+            "description": "A stylish and elegant chronograph watch with a gold-tone stainless steel bracelet and crystal-accented bezel.",
+            "image": "watch 8.png",
+            "rating": {
+              "rate": 4.6,
+              "count": 90
+            }
+          },
+          {
+            "id": 27,
+            "title": "Robo watch",
+            "price": 94.95,
+            "description": "A chic and versatile stainless steel watch with a slim profile and minimalist design, perfect for casual and everyday wear.",
+            "image": "watch 11.png",
+            "rating": {
+              "rate": 4.4,
+              "count": 210
+            }
+          }
+        ]
+      },
+      {
+        "category": "Classic",
+        "image": "url",
+        "products": [
+          {
+            "id": 28,
+            "title": "Micfor",
+            "price": 39.99,
+            "description": "A casual, stylish, and affordable watch with an easy-to-read dial. Comfortable nylon strap and water-resistant.",
+            "image": "watch 5.png",
+            "rating": {
+              "rate": 3.8,
+              "count": 430
+            }
+          },
+          {
+            "id": 29,
+            "title": "Rios Watch",
+            "price": 29.95,
+            "description": "A timeless and affordable analog watch with a simple, elegant design and water resistance.",
+            "image": "watch 6.png",
+            "rating": {
+              "rate": 4.0,
+              "count": 340
+            }
+          },
+          {
+            "id": 30,
+            "title": "Rolex V1",
+            "price": 250.00,
+            "description": "A stylish and elegant chronograph watch with a gold-tone stainless steel bracelet and crystal-accented bezel.",
+            "image": "watch 7.webp",
+            "rating": {
+              "rate": 4.6,
+              "count": 90
+            }
+          },
+          {
+            "id": 31,
+            "title": "White bird",
+            "price": 94.95,
+            "description": "A chic and versatile stainless steel watch with a slim profile and minimalist design, perfect for casual and everyday wear.",
+            "image": "watch 10.png",
+            "rating": {
+              "rate": 4.4,
+              "count": 210
+            }
+          }
+        ]
+      },
+      {
+        "category": "Leather",
+        "image": "url",
+        "products": [
+          {
+            "id": 32,
+            "title": "Portable Square",
+            "price": 39.99,
+            "description": "A casual, stylish, and affordable watch with an easy-to-read dial. Comfortable nylon strap and water-resistant.",
+            "image": "CasioMens.png",
+            "image1": "CasioMens1.png",
+            "image2": "CasioMens2.png",
+            "image3": "CasioMens3.png",
+  
+            "rating": {
+              "rate": 3.8,
+              "count": 430
+            }
+          },
+          {
+            "id": 33,
+            "title": "Diamond Watches",
+            "price": 29.95,
+            "description": "A timeless and affordable analog watch with a simple, elegant design and water resistance.",
+            "image": "watch 4.png",
+            "rating": {
+              "rate": 4.0,
+              "count": 340
+            }
+          },
+          {
+            "id": 34,
+            "title": "Micfor",
+            "price": 250.00,
+            "description": "A stylish and elegant chronograph watch with a gold-tone stainless steel bracelet and crystal-accented bezel.",
+            "image": "watch 5.png",
+            "rating": {
+              "rate": 4.6,
+              "count": 90
+            }
+          },
+          {
+            "id": 35,
+            "title": "Rios Watch",
+            "price": 94.95,
+            "description": "A chic and versatile stainless steel watch with a slim profile and minimalist design, perfect for casual and everyday wear.",
+            "image": "watch 6.png",
+            "rating": {
+              "rate": 4.4,
+              "count": 210
+            }
+          }
+        ]
+      }
+    ]
+  }
