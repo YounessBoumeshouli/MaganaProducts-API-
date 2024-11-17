@@ -446,6 +446,9 @@
             "price": 94.95,
             "description": "A chic and versatile stainless steel watch with a slim profile and minimalist design, perfect for casual and everyday wear.",
             "image": "watch 10.png",
+            "image1": "watch_11-1.png",
+            "image2": "watch 10.png",
+            "image3": "watch_11-2.png",
             "rating": {
               "rate": 4.4,
               "count": 210
