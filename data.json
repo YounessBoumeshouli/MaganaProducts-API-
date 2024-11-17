@@ -321,7 +321,10 @@
             "title": "Rolex V1",
             "price": 94.95,
             "description": "A chic and versatile stainless steel watch with a slim profile and minimalist design, perfect for casual and everyday wear.",
-            "image": "watch 7.webp",
+            "image": "watch_7_1.png",
+            "image1": "watch_7.png",
+            "image2": "watch_7_2.png",
+            "image3": "watch_7_1.png",
             "rating": {
               "rate": 4.4,
               "count": 210
