@@ -15,7 +15,7 @@
             "image3": "watch_11-2.png",
   
             "rating": {
-              "rate": 4.5,
+              "rate": 3.5,
               "count": 120
             }
           },
@@ -29,7 +29,7 @@
             "image2": "FossilWomens2.png",
             "image3": "FossilMen (1).png",
             "rating": {
-              "rate": 4.4,
+              "rate": 2.4,
               "count": 679
             }
           },
@@ -132,7 +132,7 @@
             "image3": "watch_3-3.png",
   
             "rating": {
-              "rate": 4.7,
+              "rate": 5,
               "count": 500
             }
           },
@@ -247,7 +247,7 @@
             "image1": "FossilWomens2.jpg",
             "image2": "FossilWomens3.jpg",
             "rating": {
-              "rate": 4.4,
+              "rate": 5,
               "count": 210
             }
           }
@@ -293,7 +293,7 @@
             "image2": "watch_4_2.png",
             "image3": "watch_4_3.png",
             "rating": {
-              "rate": 4.6,
+              "rate": 3,
               "count": 90
             }
           },
@@ -307,7 +307,7 @@
             "image2": "watch_5_2.png",
             "image3": "watch_5_3.png",
             "rating": {
-              "rate": 4.4,
+              "rate": 5,
               "count": 210
             }
           },
@@ -403,7 +403,7 @@
             "image3": "watch_5_3.png",
 
             "rating": {
-              "rate": 3.8,
+              "rate": 2.8,
               "count": 430
             }
           },
@@ -457,7 +457,7 @@
             "image3": "CasioMens3.png",
   
             "rating": {
-              "rate": 3.8,
+              "rate": 5,
               "count": 430
             }
           },
@@ -477,8 +477,11 @@
             "title": "Micfor",
             "price": 250.00,
             "description": "A stylish and elegant chronograph watch with a gold-tone stainless steel bracelet and crystal-accented bezel.",
-            "image": "watch 5.png",
-            "rating": {
+             "image": "watch_5.png",
+            "image1": "watch_5_1.png",
+            "image2": "watch_5_2.png",
+            "image3": "watch_5_3.png",   
+              "rating": {
               "rate": 4.6,
               "count": 90
             }
