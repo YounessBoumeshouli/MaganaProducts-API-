@@ -142,6 +142,10 @@
             "price": 79.99,
             "description": "A reliable dive watch with a stainless steel case and water resistance up to 200 meters, ideal for swimming and diving.",
             "image": "InvictaMens.jpg",
+            "image1": "InvictaMens.jpg",
+            "image2": "InvictaMens.jpg",
+            "image3": "InvictaMens.jpg",
+
             "rating": {
               "rate": 3.5,
               "count": 400
@@ -153,6 +157,10 @@
             "price": 299,
             "description": "A durable, multi-functional outdoor watch featuring an altimeter, barometer, and compass, designed for extreme adventures.",
             "image": "SuuntoCore.jpg",
+            "image1": "SuuntoCore.jpg",
+            "image2": "SuuntoCore.jpg",
+            "image3": "SuuntoCore.jpg",
+
             "rating": {
               "rate": 4.6,
               "count": 319
@@ -164,6 +172,10 @@
             "price": 69.99,
             "description": "This rugged, reliable outdoor watch features an Indiglo light-up dial and a durable, water-resistant case.",
             "image": "TimexWomen's.jpg",
+            "image1": "TimexWomen's.jpg",
+            "image2": "TimexWomen's.jpg",
+            "image3": "TimexWomen's.jpg",
+
             "rating": {
               "rate": 4.1,
               "count": 235
@@ -195,7 +207,7 @@
             "price": 39.99,
             "description": "A casual, stylish, and affordable watch with an easy-to-read dial. Comfortable nylon strap and water-resistant.",
             "image": "watch_4.png",
-            "image1": "watch_4__1.png",
+            "image1": "watch_4_1.png",
             "image2": "watch_4_2.png",
             "image3": "watch_4_3.png",
 
